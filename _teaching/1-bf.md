@@ -3,6 +3,7 @@ title: "Business Finance"
 collection: teaching
 type: "Undergraduate"
 subject: "Finance"
+role: "Tutor"
 permalink: /teaching/1-bf
 venue: "University of Aberdeen"
 year: 2022-2024
