@@ -6,17 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 I am a driven researcher with a focus on transdisciplinary finance, sustainability, international relations, and public policy. I am committed to fostering collaborative working relationships based on trust and respect.
 
 
 Education
 ======
-PhD in Finance, University of Aberdeen (2025)
-------
-MSc in Finance, Coventry University (2017)
-------
-BBA (HONS) in Entrepreneurship, Banking Academy of Vietnam (2015)
-------
+**PhD in Finance, University of Aberdeen (2025)**
+**MSc in Finance, Coventry University (2017)**
+**BBA (HONS) in Entrepreneurship, Banking Academy of Vietnam (2015)**
 
 Experience
 ======
