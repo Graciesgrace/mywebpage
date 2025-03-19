@@ -15,14 +15,20 @@ Education
 * MSc in Finance | Coventry University, 2017
 * BBA (HONS) in Entrepreneurship | Banking Academy of Vietnam, 2015
 
-Getting started
+Research Experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+PhD research | Finance | University of Aberdeen | UK	Oct 2020-Jan 2025
+•	Investigated biases in sovereign credit ratings, using Natural Language Processing and Machine Learning techniques to extract insights from the language of rating reports.
+•	Developed indices of friendships among nations by aggregating over 100 indicators using unobserved component models. Assessed their impact on rating analysts’ evaluations.
+•	Published a thesis chapter (Tran et al., 2021, CABS 3*), featured in Bloomberg.
+•	Presented at international and institutional conferences, including ICFBA, Scotdoc, and the University of Aberdeen’s annual PGR conference.
+Other Selected Research Projects | UK, Vietnam	2015-Present
+•	Researching the impact of nature loss on sovereign creditworthiness and access to funding with Prof Patrycja Klusak and Prof Matthew Agarwala (Bennett Institute for Public Policy, University of Cambridge & Bennett Institute for Innovation & Policy Acceleration, University of Sussex). Responsibilities include data collection, data processing, and statistical analysis. Revise & Resubmit at Ecological Economics (CABS 3*).	Apr 2024 - Present
+•	Led data collection, analysis, and manuscript preparation in a project surveying 205 entrepreneurs to identify key performance factors. The findings were published in a book by Dr Van Ha Nguyen, Banking Academy of Vietnam (Nguyen et al., 2018). 	2015
+Research Assistant | UK, Germany, Italy	2020-Present
+•	Supporting an NLP project analysing ESG analyst subjectivities in sustainability report narratives, led by Prof Patrycja Klusak (Heriot-Watt University & Bennett Institute for Public Policy, University of Cambridge) and Prof Florian Kiesel (Free University of Bozen-Bolzano).	Dec 2024 - Present
+•	Assisted Dr Moritz Kraemer, Chief Economist and Head of Research at LBBW Bank, Germany, with data collection for his article featured on Bloomberg and Reuters.	Mar 2021
+•	Collected rating and financial data from RatingDirects, CapitalIQ and WRDS for Prof Patrycja Klusak at the University of East Anglia.	 Feb-July 2020
 
 Site-wide configuration
 ------
