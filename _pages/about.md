@@ -11,6 +11,7 @@ I am a driven researcher with a focus on transdisciplinary finance, sustainabili
 
 Education
 ======
+
 PhD in Finance, University of Aberdeen (2025)
 ------
 * Investigated biases in sovereign credit ratings, using Natural Language Processing and Machine Learning techniques to extract insights from the language of rating reports.
@@ -18,11 +19,13 @@ PhD in Finance, University of Aberdeen (2025)
 
 MSc in Finance, Coventry University (2017)
 ------
+
 BBA (HONS) in Entrepreneurship, Banking Academy of Vietnam (2015)
 ------
 
 Experience
 ======
+
 Research Assistant, UK - Germany - Italy	(2020-Present)
 ------
 * Supporting an NLP project analysing ESG analyst subjectivities in sustainability report narratives, led by Prof Patrycja Klusak (Heriot-Watt University & Bennett Institute for Public Policy, University of Cambridge) and Prof Florian Kiesel (Free University of Bozen-Bolzano).	Dec 2024 - Present
