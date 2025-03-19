@@ -11,18 +11,22 @@ I am a driven researcher with a focus on transdisciplinary finance, sustainabili
 
 Education
 ======
+
 PhD in Finance, University of Aberdeen (2025)
 ------
+
 * Investigated biases in sovereign credit ratings, using Natural Language Processing and Machine Learning techniques to extract insights from the language of rating reports.
 * Developed indices of friendships among nations by aggregating over 100 indicators using unobserved component models. Assessed their impact on rating analysts’ evaluations.
 
 MSc in Finance, Coventry University (2017)
 ------
+
 BBA (HONS) in Entrepreneurship, Banking Academy of Vietnam (2015)
 ------
 
 Experience
 ======
+
 Research Assistant, UK - Germany - Italy	(2020-Present)
 ------
 * Supporting an NLP project analysing ESG analyst subjectivities in sustainability report narratives, led by Prof Patrycja Klusak (Heriot-Watt University & Bennett Institute for Public Policy, University of Cambridge) and Prof Florian Kiesel (Free University of Bozen-Bolzano).	Dec 2024 - Present
@@ -54,6 +58,6 @@ AWARDS
 MEDIA COVERAGE
 ======
 * Bloomberg: [Rating companies reacted slowly to Covid crisis, research shows](https://www.bloomberg.com/news/articles/2021-09-21/ratings-companies-reacted-slowly-to-covid-crisis-research-shows)
-* National Library of Medicine: Sovereign credit ratings during the COVID-19 pandemic(https://pmc.ncbi.nlm.nih.gov/articles/PMC8590888/)
-* About Manchester: Study shows credit rating agencies were slow to react to the pandemic’s unprecedented economic and fiscal reverberations(https://aboutmanchester.co.uk/112211-2/)
-* Public Health Scotland: Leading from Behind: Sovereign Credit Ratings during COVID-19 Pandemic(https://publichealthscotland.scot/repository/leading-from-behind-sovereign-credit-ratings-during-covid-19-pandemic/)
+* National Library of Medicine: [Sovereign credit ratings during the COVID-19 pandemic](https://pmc.ncbi.nlm.nih.gov/articles/PMC8590888/)
+* About Manchester: [Study shows credit rating agencies were slow to react to the pandemic’s unprecedented economic and fiscal reverberations](https://aboutmanchester.co.uk/112211-2/)
+* Public Health Scotland: [Leading from Behind: Sovereign Credit Ratings during COVID-19 Pandemic](https://publichealthscotland.scot/repository/leading-from-behind-sovereign-credit-ratings-during-covid-19-pandemic/)
