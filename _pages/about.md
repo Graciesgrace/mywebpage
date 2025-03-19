@@ -13,9 +13,6 @@ Education
 ======
 PhD in Finance, University of Aberdeen (2025)
 ------
-* Investigated biases in sovereign credit ratings, using Natural Language Processing and Machine Learning techniques to extract insights from the language of rating reports.
-* Developed indices of friendships among nations by aggregating over 100 indicators using unobserved component models. Assessed their impact on rating analysts’ evaluations.
-  
 MSc in Finance, Coventry University (2017)
 ------
 BBA (HONS) in Entrepreneurship, Banking Academy of Vietnam (2015)
