@@ -22,7 +22,7 @@ repository               : "Graciesgrace/mywebpage"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "bio-photo.jpg"
   name             : "Yen Tran - Gracie"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "My research focuses on the intersection of credit ratings, behavioural finance, corporate culture, international relations and sustainable economy. I have experience tutoring undergraduate and postgraduate students in finance, management, and research methods courses. I am dedicated to fostering collaborative working relationships built on trust and respect."
