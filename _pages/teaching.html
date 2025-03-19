@@ -1,10 +1,12 @@
 ---
 layout: archive
-title: ""
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
-•	Undergraduate courses: Business Finance 2, Operation Management, International Context for Business 2, Understand Statistics.
-•	Postgraduate courses: International Financial Management, Portfolio Analysis, Investment Project, Research Practice.
+{% include base_path %}
 
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
