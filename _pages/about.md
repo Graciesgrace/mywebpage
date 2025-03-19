@@ -58,6 +58,6 @@ AWARDS
 MEDIA COVERAGE
 ======
 * Bloomberg: [Rating companies reacted slowly to Covid crisis, research shows](https://www.bloomberg.com/news/articles/2021-09-21/ratings-companies-reacted-slowly-to-covid-crisis-research-shows)
-* National Library of Medicine: Sovereign credit ratings during the COVID-19 pandemic(https://pmc.ncbi.nlm.nih.gov/articles/PMC8590888/)
-* About Manchester: Study shows credit rating agencies were slow to react to the pandemic’s unprecedented economic and fiscal reverberations(https://aboutmanchester.co.uk/112211-2/)
-* Public Health Scotland: Leading from Behind: Sovereign Credit Ratings during COVID-19 Pandemic(https://publichealthscotland.scot/repository/leading-from-behind-sovereign-credit-ratings-during-covid-19-pandemic/)
+* National Library of Medicine: [Sovereign credit ratings during the COVID-19 pandemic](https://pmc.ncbi.nlm.nih.gov/articles/PMC8590888/)
+* About Manchester: [Study shows credit rating agencies were slow to react to the pandemic’s unprecedented economic and fiscal reverberations](https://aboutmanchester.co.uk/112211-2/)
+* Public Health Scotland: [Leading from Behind: Sovereign Credit Ratings during COVID-19 Pandemic](https://publichealthscotland.scot/repository/leading-from-behind-sovereign-credit-ratings-during-covid-19-pandemic/)
