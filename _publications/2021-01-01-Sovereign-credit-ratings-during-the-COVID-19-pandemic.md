@@ -1,6 +1,7 @@
 ---
 title: "Sovereign credit ratings during the COVID-19 pandemic"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-01-01-Sovereign-credit-ratings-during-the-COVID-19-pandemic
 date: 2021-01-01
 venue: 'International Review of Financial Analysis'
