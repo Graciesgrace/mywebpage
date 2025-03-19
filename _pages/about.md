@@ -25,6 +25,7 @@ Experience
 * Collected rating and financial data from RatingDirects, CapitalIQ and WRDS for Prof Patrycja Klusak at the University of East Anglia.	 Feb-July 2020
 
 **Teaching Assistant - PhD Tutor, University of Aberdeen, UK	(Oct 2021-Nov 2024)**
+
 Delivered online and in-person tutorials, supported lectures, developed materials, graded exam papers, and provided academic support.
 * Undergraduate: Business Finance, Understand Statistics.
 * Postgraduate: International Financial Management, Portfolio Analysis, Research Practice.
