@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Aberdeen, Business School"
-date: 2022
+date: 2022-01-01
 location: "Aberdeen, Scotland"
 ---
 
