@@ -13,7 +13,7 @@ title                    : "Yen Tran"
 title_separator          : "-"
 name                     : &name "Gracie"
 description              : &description "PhD in Finance| Credit Ratings, Behavioural Finance, Sustainability, International Relations, Corporate Culture, Narrative Economics"
-url                      : https://github.com/Graciesgrace/mywebpage # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://www.gracietran.com/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "graciesgrace/mywebpage"
 
