@@ -22,7 +22,7 @@ repository               : "Graciesgrace/mywebpage"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpq"
   name             : "Yen Tran - Gracie"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "My research focuses on the intersection of credit ratings, behavioural finance, corporate culture, international relations and sustainable economy. I have experience tutoring undergraduate and postgraduate students in finance, management, and research methods courses. I am dedicated to fostering collaborative working relationships built on trust and respect."
@@ -32,7 +32,7 @@ author:
   email            : "yentran.gracie@gmail.com" 
 
   # Academic websites
-  arxiv            : "www.gracietran.com" # URL - Update with the correct link to your profile
+  arxiv            : #"www.gracietran.com" # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-5336-3284"
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
