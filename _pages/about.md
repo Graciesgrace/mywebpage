@@ -13,7 +13,9 @@ I am a driven researcher with a focus on transdisciplinary finance, sustainabili
 Education
 ======
 **PhD in Finance, University of Aberdeen (2025)**
+
 **MSc in Finance, Coventry University (2017)**
+
 **BBA (HONS) in Entrepreneurship, Banking Academy of Vietnam (2015)**
 
 Experience
