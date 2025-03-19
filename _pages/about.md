@@ -11,22 +11,18 @@ I am a driven researcher with a focus on transdisciplinary finance, sustainabili
 
 Education
 ======
-
 PhD in Finance, University of Aberdeen (2025)
 ------
-
 * Investigated biases in sovereign credit ratings, using Natural Language Processing and Machine Learning techniques to extract insights from the language of rating reports.
 * Developed indices of friendships among nations by aggregating over 100 indicators using unobserved component models. Assessed their impact on rating analysts’ evaluations.
-
+  
 MSc in Finance, Coventry University (2017)
 ------
-
 BBA (HONS) in Entrepreneurship, Banking Academy of Vietnam (2015)
 ------
 
 Experience
 ======
-
 Research Assistant, UK - Germany - Italy	(2020-Present)
 ------
 * Supporting an NLP project analysing ESG analyst subjectivities in sustainability report narratives, led by Prof Patrycja Klusak (Heriot-Watt University & Bennett Institute for Public Policy, University of Cambridge) and Prof Florian Kiesel (Free University of Bozen-Bolzano).	Dec 2024 - Present
@@ -47,7 +43,6 @@ Marketing Executive & Market Research Specialist (Sep 2019-Aug 2020)
 Assistant to the Chairwoman & CEO, Thanh Dat Seagoing Vessel, VN (Jul 2018-Mar 2019)
 ------
 * Assisted the Chairwoman & CEO with business strategy and daily management at Thanh Dat, a sea-freight and coal trading company. Simultaneously supported her role as the Deputy General Manager of Vietnam Waterway Construction Corporation (VINAWACO).
-
 
 AWARDS
 ======
