@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Business Finance"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Business-Finance
