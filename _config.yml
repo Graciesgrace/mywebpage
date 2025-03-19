@@ -13,9 +13,9 @@ title                    : "Yen Tran"
 title_separator          : "-"
 name                     : &name "Gracie"
 description              : &description "PhD in Finance| Credit Ratings, Behavioural Finance, Sustainability, International Relations, Corporate Culture, Narrative Economics"
-url                      : https://github.com/Graciesgrace/personal-web # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://www.gracietran.com/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/Graciesgrace/personal-web"
+repository               : "Graciesgrace/mywebpage"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,8 +23,8 @@ repository               : "https://github.com/Graciesgrace/personal-web"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Yen Tran - Gracie"
+  pronouns         : "she/her" # example: "she/her"  
   bio              : "My research focuses on the intersection of credit ratings, behavioural finance, corporate culture, international relations and sustainable economy. I have experience tutoring undergraduate and postgraduate students in finance, management, and research methods courses. I am dedicated to fostering collaborative working relationships built on trust and respect."
   location         : "Aberdeen - Scotland"
   employer         : "University of Aberdeen"
@@ -32,7 +32,7 @@ author:
   email            : "yentran.gracie@gmail.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "www.gracietran.com" # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-5336-3284"
