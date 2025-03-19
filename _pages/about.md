@@ -19,25 +19,21 @@ Education
 
 Experience
 ======
-Research Assistant, UK - Germany - Italy	(2020-Present)
-------
+**Research Assistant, UK - Germany - Italy	(2020-Present)**
 * Supporting an NLP project analysing ESG analyst subjectivities in sustainability report narratives, led by Prof Patrycja Klusak (Heriot-Watt University & Bennett Institute for Public Policy, University of Cambridge) and Prof Florian Kiesel (Free University of Bozen-Bolzano).	Dec 2024 - Present
 * Assisted Dr Moritz Kraemer, Chief Economist and Head of Research at LBBW Bank, Germany, with data collection for his article featured on Bloomberg and Reuters.	Mar 2021
 * Collected rating and financial data from RatingDirects, CapitalIQ and WRDS for Prof Patrycja Klusak at the University of East Anglia.	 Feb-July 2020
 
-Teaching Assistant - PhD Tutor, University of Aberdeen, UK	(Oct 2021-Nov 2024)
-------
+**Teaching Assistant - PhD Tutor, University of Aberdeen, UK	(Oct 2021-Nov 2024)**
 Delivered online and in-person tutorials, supported lectures, developed materials, graded exam papers, and provided academic support.
 * Undergraduate: Business Finance, Understand Statistics.
 * Postgraduate: International Financial Management, Portfolio Analysis, Research Practice.
 
-Marketing Executive & Market Research Specialist (Sep 2019-Aug 2020)
-------
+**Marketing Executive & Market Research Specialist (Sep 2019-Aug 2020)**
 * Marketing Executive at KOTRA (Korea Trade-Investment Promotion Agency) Hanoi. Built databases of Vietnamese companies across sectors. Supported Korean companies in finding suitable business partners in Vietnam, providing tailored recommendations and insights to enhance their market entry strategies. Assisted trade delegations.
 * Conducted market research on orders.
 
-Assistant to the Chairwoman & CEO, Thanh Dat Seagoing Vessel, VN (Jul 2018-Mar 2019)
-------
+**Assistant to the Chairwoman & CEO, Thanh Dat Seagoing Vessel, VN (Jul 2018-Mar 2019)**
 * Assisted the Chairwoman & CEO with business strategy and daily management at Thanh Dat, a sea-freight and coal trading company. Simultaneously supported her role as the Deputy General Manager of Vietnam Waterway Construction Corporation (VINAWACO).
 
 AWARDS
