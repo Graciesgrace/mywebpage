@@ -13,7 +13,6 @@ I am a driven researcher with a focus on transdisciplinary finance, sustainabili
    
 EDUCATION
 ======
-<br> 
 
 **PhD in Finance, University of Aberdeen (2025)**
 
@@ -71,6 +70,7 @@ AWARDS
 * Elphinstone PhD Scholarship, University of Aberdeen (2020-2024)
 * Course Tutor’s Prize for overall excellent academic achievement, MSc Finance, Coventry University (2017)
 * Young Research Talent Award, Banking Academy of Vietnam (2015)
+
 <br> 
 
 PUBLICATIONS
