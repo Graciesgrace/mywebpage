@@ -52,6 +52,7 @@ Service and leadership
 
 **Assistant to the Chairwoman & CEO, Thanh Dat Seagoing Vessel, VN (Jul 2018-Mar 2019)**
 * Assisted the Chairwoman & CEO with business strategy and daily management at Thanh Dat, a sea-freight and coal trading company. Simultaneously supported her role as the Deputy General Manager of Vietnam Waterway Construction Corporation (VINAWACO).
+  
 <br> 
 
 SKILLS
@@ -61,6 +62,7 @@ SKILLS
 * Designing surveys and conducting interviews with company owners and managers.
 * Working with various financial and non-financial datasets, including qualitative and quantitative data (Bloomberg, Eikon, WRDS, World Bank, IMF, Johns Hopkins, OxCGRT).
 * Web development
+
 <br> 
 
 AWARDS
