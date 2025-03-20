@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a driven researcher with a focus on transdisciplinary finance, sustainability, international relations, and public policy.<br>  
+I am a driven researcher with a focus on transdisciplinary finance, sustainability, international relations, and public policy.  
 
    
 EDUCATION
@@ -20,7 +20,7 @@ EDUCATION
 
 **BBA (HONS) in Entrepreneurship, Banking Academy of Vietnam (2015)**
 
-<br>
+
    
 EXPERIENCE
 ======
