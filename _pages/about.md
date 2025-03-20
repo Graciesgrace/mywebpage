@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About me  "
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
    
-I am a driven researcher with a focus on transdisciplinary finance, sustainability, international relations, and public policy.
+I am a driven researcher with a focus on transdisciplinary finance, sustainability, international relations, and public policy.  
 
    
 EDUCATION
