@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION
 ======
 
 **PhD in Finance, University of Aberdeen (2025)**
@@ -18,7 +18,7 @@ Education
 
 **BBA (HONS) in Entrepreneurship, Banking Academy of Vietnam (2015)**
 
-Experience
+EXPERIENCE
 ======
 
 Research
