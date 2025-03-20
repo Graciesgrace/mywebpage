@@ -19,8 +19,8 @@ EDUCATION
 **MSc in Finance, Coventry University (2017)**
 
 **BBA (HONS) in Entrepreneurship, Banking Academy of Vietnam (2015)**
+<br> 
 
-<br>  
 EXPERIENCE
 ======
 
