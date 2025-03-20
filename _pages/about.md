@@ -7,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-   
+=========
+
 I am a driven researcher with a focus on transdisciplinary finance, sustainability, international relations, and public policy.  
 
+
+=======
    
 EDUCATION
 ======
