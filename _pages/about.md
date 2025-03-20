@@ -19,6 +19,7 @@ EDUCATION
 **MSc in Finance, Coventry University (2017)**
 
 **BBA (HONS) in Entrepreneurship, Banking Academy of Vietnam (2015)**
+
 <br> 
 
 EXPERIENCE
@@ -51,6 +52,7 @@ Service and leadership
 
 **Assistant to the Chairwoman & CEO, Thanh Dat Seagoing Vessel, VN (Jul 2018-Mar 2019)**
 * Assisted the Chairwoman & CEO with business strategy and daily management at Thanh Dat, a sea-freight and coal trading company. Simultaneously supported her role as the Deputy General Manager of Vietnam Waterway Construction Corporation (VINAWACO).
+<br> 
 
 SKILLS
 ======
@@ -59,18 +61,21 @@ SKILLS
 * Designing surveys and conducting interviews with company owners and managers.
 * Working with various financial and non-financial datasets, including qualitative and quantitative data (Bloomberg, Eikon, WRDS, World Bank, IMF, Johns Hopkins, OxCGRT).
 * Web development
+<br> 
 
 AWARDS
 ======
 * Elphinstone PhD Scholarship, University of Aberdeen (2020-2024)
 * Course Tutor’s Prize for overall excellent academic achievement, MSc Finance, Coventry University (2017)
 * Young Research Talent Award, Banking Academy of Vietnam (2015)
+<br> 
 
 PUBLICATIONS
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+<br> 
   
 MEDIA
 ======
