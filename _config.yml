@@ -355,7 +355,3 @@ compress_html:
   ignore:
     envs: development
 
-#
-kramdown:
-  input: GFM
-  hard_wrap: true
