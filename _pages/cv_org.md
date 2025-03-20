@@ -63,13 +63,13 @@ AWARDS
 * Course Tutor’s Prize for overall excellent academic achievement, MSc Finance, Coventry University (2017)
 * Young Research Talent Award, Banking Academy of Vietnam (2015)
 
-Publications
+PUBLICATIONS
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Media
+MEDIA
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
