@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yen Tran"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Gracie"
 description              : &description "PhD in Finance| Credit Ratings, Behavioural Finance, Sustainability, International Relations, Corporate Culture, Narrative Economics"
