@@ -1,10 +1,9 @@
 ---
-permalink: /
-title: ""
+permalink: /cv/
+title: "CV"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /resume
 ---
 
 I am a driven researcher with a focus on transdisciplinary finance, sustainability, international relations, and public policy. I am committed to fostering collaborative working relationships based on trust and respect.
