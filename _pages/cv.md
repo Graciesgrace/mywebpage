@@ -6,6 +6,8 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
+
 EDUCATION
 ======
 **PhD in Finance, University of Aberdeen (2025)**
