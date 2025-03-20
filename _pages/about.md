@@ -9,7 +9,7 @@ redirect_from:
 
 I am a driven researcher with a focus on transdisciplinary finance, sustainability, international relations, and public policy. I am committed to fostering collaborative working relationships based on trust and respect.
 
-Education
+EDUCATION
 ======
 **PhD in Finance, University of Aberdeen (2025)**
 
@@ -17,7 +17,7 @@ Education
 
 **BBA (HONS) in Entrepreneurship, Banking Academy of Vietnam (2015)**
 
-Experience
+EXPERIENCE
 ======
 **Research Assistant, UK - Germany - Italy	(2020-Present)**
 * Supporting an NLP project analysing ESG analyst subjectivities in sustainability report narratives, led by Prof Patrycja Klusak (Heriot-Watt University & Bennett Institute for Public Policy, University of Cambridge) and Prof Florian Kiesel (Free University of Bozen-Bolzano).	Dec 2024 - Present
