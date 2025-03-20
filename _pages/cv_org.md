@@ -22,6 +22,7 @@ Experience
 ======
 Research
 -------
+
 **Research Assistant, UK - Germany - Italy	(2020-Present)**
 * Supporting an NLP project analysing ESG analyst subjectivities in sustainability report narratives, led by Prof Patrycja Klusak (Heriot-Watt University & Bennett Institute for Public Policy, University of Cambridge) and Prof Florian Kiesel (Free University of Bozen-Bolzano).	Dec 2024 - Present
 * Assisted Dr Moritz Kraemer, Chief Economist and Head of Research at LBBW Bank, Germany, with data collection for his article featured on Bloomberg and Reuters.	Mar 2021
