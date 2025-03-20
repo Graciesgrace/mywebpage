@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-GB"
 site_theme               : "default"
 title                    : "About me"
 title_separator          : "-"
