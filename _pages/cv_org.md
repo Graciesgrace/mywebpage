@@ -1,10 +1,10 @@
 ---
-layout: archive
+permalink: /
 title: ""
-permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 {% include base_path %}
