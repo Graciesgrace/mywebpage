@@ -22,7 +22,8 @@ Education
 
 <br> 
 
-## Experience
+Experience
+======
 
 Research
 ------
