@@ -17,6 +17,7 @@ $indent-var                 : 1.3em;
 $serif                      : Georgia, Times, serif;
 $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+$montserrat                 : -apple-system,BlinkMacSystemFont,segoe ui,Roboto,helvetica neue,Arial,noto sans,liberation sans,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol,noto color emoji;
 
 /* Sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
@@ -30,7 +31,7 @@ $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
 /* Type scale */
-$type-size-1                : 2.441em;  // ~39.056px
+$type-size-1                : 2.8em;  // ~39.056px 2.441em 47.25px
 $type-size-2                : 1.953em;  // ~31.248px
 $type-size-3                : 1.563em;  // ~25.008px
 $type-size-4                : 1.25em;   // ~20px
@@ -39,8 +40,8 @@ $type-size-6                : 0.75em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
 
-$global-font-family         : $inherit;
-$header-font-family         : $montserrat, sans-serif;
+$global-font-family         : $sans-serif;
+$header-font-family         : $montserrat;
 $caption-font-family        : $serif;
 
 /* ==========================================================================
