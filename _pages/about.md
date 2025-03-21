@@ -30,7 +30,7 @@ I am a driven researcher with a focus on transdisciplinary finance, sustainabili
 * Collected rating and financial data from RatingDirects, CapitalIQ and WRDS for Prof Patrycja Klusak at the University of East Anglia.	 Feb-July 2020
 
 ### Teaching
-------
+---
 
 **Teaching Assistant - PhD Tutor, University of Aberdeen, UK	(Oct 2021-Nov 2024)**
 
