@@ -11,8 +11,7 @@ redirect_from:
 I am a driven researcher with a focus on transdisciplinary finance, sustainability, international relations, and public policy.<br><br>
 
    
-EDUCATION
-======
+# EDUCATION
 
 **PhD in Finance, University of Aberdeen (2025)**
 
